@@ -12,8 +12,6 @@ A Discord Bot for the Legends of Idleon [Discord Server](https://discord.com/inv
   - Tell you information on all commands or a specific command
 - `craft`
   - See how much it costs total to craft an item! (Special thanks to Granttank!)
-- `toolbox`
-  - Provides a link to the toolbox from Abgreyd and Hateling
 - `contribute`
   - Informational command with links to the GitHub
 - `toolbox`
